@@ -1,5 +1,5 @@
-// starting with the name of almighty ALLAH
-// Practice is the only shortcut to improve
+//https://codeforces.com/gym/106057/problem/A
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
